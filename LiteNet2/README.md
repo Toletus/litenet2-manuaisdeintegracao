@@ -45,11 +45,6 @@
             - [Notificação de timeout de liberação (0x0305)](#notificacao-timeout)
             - [Notificação de id com biometria (0x0306)](#notificacao-biometria)
             - [Notificação de template de biometria não cadastrado (0x0307)](#notificacao-template)
-        - [Autenticação](#autenticacao)
-            - [Solicitação de desafio de liberação (0x0401)](#solicitacao-desafio)
-            - [Mensagem de desafio 1 (0x0402)](#mensagem-desafio1)
-            - [Mensagem de desafio 2 (não utilizado) (0x0403)](#mensagem-desafio2)
-            - [Resposta para o desafio (0x0404)](#resposta-desafio)
 
 ## 1. Introdução <a name="introducao"></a>
 
